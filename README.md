@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dipen Khadka</h1>
 <h3 align="center">A passionate frontend developer from Nepal. I am more interested in Web Technology and Web Application. I like to design and develop applications. Currently I am learning about more about the Front End Development Technologies -> HTML, CSS and JavaScript.</h3>
 
-!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nepidkhadka&label=Profile%20views&color=0e75b6&style=flat" alt="nepidkhadka" /> </p>
 
