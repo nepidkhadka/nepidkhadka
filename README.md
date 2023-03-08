@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTMl, CSS, Wordpress, BootStrap and JS**
 
-- 📫 How to reach me **dipenkhadka191@gmail.com**
+- 📫 How to reach me : ! **dipenkhadka191@gmail.com** !
 
 
 
