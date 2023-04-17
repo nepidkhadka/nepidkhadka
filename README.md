@@ -7,9 +7,6 @@
 
 - 💬 Ask me about **HTMl, CSS, Wordpress, BootStrap and JS**
 
-- 📫 How to reach me : ! **dipenkhadka191@gmail.com** !
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
